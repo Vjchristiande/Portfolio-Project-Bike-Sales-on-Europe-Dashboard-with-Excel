@@ -4,8 +4,8 @@
 This project involved analyzing a comprehensive sales dataset from a European bike retailer to uncover key business trends and performance metrics. Using Microsoft Excel, I designed a fully interactive and visually engaging dashboard to transform raw transactional data into actionable insights.
 
 ## Dataset Description
-- Source:
-- No. of Rows:
+- Source: https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
+- No. of Rows: 112,037
 - Fields:
     - Date
     - Day
